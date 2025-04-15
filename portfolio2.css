@@ -1,0 +1,44 @@
+body {
+  background-color:rgb(34, 34, 59);
+  font-family: 'ChosunGu';
+}
+.container{
+  display: flex;
+  justify-content:center;
+  justify-content: space-between;
+  align-items: center;
+  height: 100vh
+ 
+  
+}
+.box {
+width: 300px;
+height: 500px;
+background-color: rgb(174, 153, 162);
+text-align: center;
+
+font-size: larger;
+text-align: center;
+
+
+}
+@font-face {
+  font-family: 'ChosunGu';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@1.0/ChosunGu.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+h3{
+  font-family: 'MarinesBold';
+  color:rgb(137, 76, 68);
+}
+
+@font-face {
+  font-family: 'MarinesBold';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2502-1@1.0/MarinesBold.woff2')
+    format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}

@@ -1,0 +1,24 @@
+body{
+  background-color: rgb(34, 34, 59);
+  text-align: center;
+  
+}
+h1{
+  color: beige;
+  font-family: 'MarinesBold';
+}
+@font-face {
+  font-family: 'MarinesBold';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2502-1@1.0/MarinesBold.woff2')
+    format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+h3{
+  color:rgb(210, 167, 161);
+  font-size: larger;
+}
+
+
+
